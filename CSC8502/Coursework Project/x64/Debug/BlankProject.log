@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Asteroid.cpp
+  Building.cpp
+  Rain.cpp
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Rain.cpp(12,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Rain.cpp(12,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Rain.cpp(13,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Rain.cpp(31,88): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Rain.cpp(31,66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Rain.cpp(32,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Ship.cpp
+  Start.cpp
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Start.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Renderer.cpp
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(115,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(125,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(142,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(142,37): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(569,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(570,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(571,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\Blank Project\Renderer.cpp(573,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  BlankProject.vcxproj -> C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8502\x64\Debug\Coursework.exe
